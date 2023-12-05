@@ -16,7 +16,7 @@ const HeroImg = () => {
         <p>Welcome to my portfolio !</p>
         <div className="buttons">
           <Link
-            to="https://drive.google.com/file/d/1m5gmL-5Ry69W8jXX0mQeauG-PZzk2X6N/view?usp=sharing"
+            to="https://drive.google.com/file/d/1p6n57TKT5KL0F5twAmPXItK-9n59Y4OH/view?usp=sharing"
             target="_blank"
             className="btn"
           >
