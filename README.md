@@ -43,7 +43,7 @@ Demo link-https://moonlit-custard-9ed802.netlify.app/
 
 ## Screenshots
 ![Screenshot 2024-01-22 235629](https://github.com/Kavish7702/My_Portfolio/assets/143951389/d1f00ab9-8116-4d9f-82f2-848ce418eeea)
-![Screenshot 2024-01-22 235651](https://github.com/Kavish7702/My_Portfolio/assets/143951389/00f38259-3f22-42c4-83ec-95dbd17518f0)
+![Screenshot 2024-01-23 000651](https://github.com/Kavish7702/My_Portfolio/assets/143951389/844e3c57-ca81-4348-8766-a570277d3489)
 ![Screenshot 2024-01-22 235750](https://github.com/Kavish7702/My_Portfolio/assets/143951389/80a450ad-2190-4e34-9b6d-a7b988175967)
 
 
